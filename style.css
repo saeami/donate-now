@@ -176,5 +176,55 @@ body{
     border: 2px solid black;
 }
 
+.update{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    margin-top: 100px;
+}
 
+.p6{
+    color: rgb(104, 101, 101);
+    font-size: 14px;
+    padding-top: 20px; 
+    text-align: center;
+    padding-bottom: 50px;
+}
 
+.email{
+    color: black;
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 2px;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    background-color: rgb(187, 171, 171);
+}
+
+.red-color{
+    background-color: tomato;
+    margin-bottom: 50px;
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 2px;
+}
+
+.last{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    color: brown;
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    
+}
+
+.another-font{
+    font-family: 'Josefin Slab', serif;
+    color: white;
+    font-size: 14px;
+    padding: 10px;
+
+}
