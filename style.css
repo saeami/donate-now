@@ -140,3 +140,41 @@ body{
 #bg2{
     background-color: blanchedalmond;
 }
+
+.color{
+    color: tomato;
+
+}
+.bonus{
+    width: 38%;
+    height: 50%;
+    font-size: 30px;
+    padding-left: 152.4px;
+    background-color: rgb(245, 238, 238);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: inline-block;
+    }
+
+.p5{
+    color: rgb(104, 101, 101);
+    font-size: 14px;
+    padding-top: 20px;
+
+}
+
+.explore-button{
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    background-color: tomato;
+    border-color: transparent;
+    border-radius: 5px;
+}
+
+.explore-button:hover{
+    border: 2px solid black;
+}
+
+
+
